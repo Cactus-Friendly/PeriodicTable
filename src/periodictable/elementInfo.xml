@@ -1,0 +1,1065 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<table>
+    <element id="89">
+        <atomicmass>(227)</atomicmass>
+        <atomicnumber>89</atomicnumber>
+        <atomicsymbol>Ac</atomicsymbol>
+        <boilingpoint>3200 °C</boilingpoint>
+        <density>10.07 g/cm3</density>
+        <elementname>Actinium</elementname>
+        <meltingpoint>1050 °C</meltingpoint>
+    </element>
+    <element id="13">
+        <atomicmass>26.981538</atomicmass>
+        <atomicnumber>13</atomicnumber>
+        <atomicsymbol>Al</atomicsymbol>
+        <boilingpoint>2519 °C</boilingpoint>
+        <density>2.7 g/cm3</density>
+        <elementname>Aluminum</elementname>
+        <meltingpoint>660.32 °C</meltingpoint>
+    </element>
+    <element id="95">
+        <atomicmass>(243)</atomicmass>
+        <atomicnumber>95</atomicnumber>
+        <atomicsymbol>Am</atomicsymbol>
+        <boilingpoint>2011 °C</boilingpoint>
+        <density>13.67 g/cm3</density>
+        <elementname>Americium</elementname>
+        <meltingpoint>1176 °C</meltingpoint>
+    </element>
+    <element id="51">
+        <atomicmass>121.760</atomicmass>
+        <atomicnumber>51</atomicnumber>
+        <atomicsymbol>Sb</atomicsymbol>
+        <boilingpoint>1587 °C</boilingpoint>
+        <density>6.697 g/cm3</density>
+        <elementname>Antimony</elementname>
+        <meltingpoint>630.63 °C</meltingpoint>
+    </element>
+    <element id="18">
+        <atomicmass>39.948</atomicmass>
+        <atomicnumber>18</atomicnumber>
+        <atomicsymbol>Ar</atomicsymbol>
+        <boilingpoint>-185.8 °C</boilingpoint>
+        <density>1.784 g/L</density>
+        <elementname>Argon</elementname>
+        <meltingpoint>-189.3 °C</meltingpoint>
+    </element>
+    <element id="33">
+        <atomicmass>74.92160</atomicmass>
+        <atomicnumber>33</atomicnumber>
+        <atomicsymbol>As</atomicsymbol>
+        <boilingpoint>614 °C</boilingpoint>
+        <density>5.727 g/cm3</density>
+        <elementname>Arsenic</elementname>
+        <meltingpoint>817 °C</meltingpoint>
+    </element>
+    <element id="85">
+        <atomicmass>(210)</atomicmass>
+        <atomicnumber>85</atomicnumber>
+        <atomicsymbol>At</atomicsymbol>
+        <boilingpoint>337 °C</boilingpoint>
+        <density>6.35 g/cm3</density>
+        <elementname>Astatine</elementname>
+        <meltingpoint>302 °C</meltingpoint>
+    </element>
+    <element id="56">
+        <atomicmass>137.327</atomicmass>
+        <atomicnumber>56</atomicnumber>
+        <atomicsymbol>Ba</atomicsymbol>
+        <boilingpoint>1870 °C</boilingpoint>
+        <density>3.51 g/cm3</density>
+        <elementname>Barium</elementname>
+        <meltingpoint>727 °C</meltingpoint>
+    </element>
+    <element id="97">
+        <atomicmass>(247)</atomicmass>
+        <atomicnumber>97</atomicnumber>
+        <atomicsymbol>Bk</atomicsymbol>
+        <boilingpoint>2627 °C</boilingpoint>
+        <density>14.78 g/cm3</density>
+        <elementname>Berkelium</elementname>
+        <meltingpoint>1050 °C</meltingpoint>
+    </element>
+    <element id="4">
+        <atomicmass>9.012182</atomicmass>
+        <atomicnumber>4</atomicnumber>
+        <atomicsymbol>Be</atomicsymbol>
+        <boilingpoint>2470 °C</boilingpoint>
+        <density>1.848 g/cm3</density>
+        <elementname>Beryllium</elementname>
+        <meltingpoint>1287 °C</meltingpoint>
+    </element>
+    <element id="83">
+        <atomicmass>208.98038</atomicmass>
+        <atomicnumber>83</atomicnumber>
+        <atomicsymbol>Bi</atomicsymbol>
+        <boilingpoint>1564 °C</boilingpoint>
+        <density>9.78 g/cm3</density>
+        <elementname>Bismuth</elementname>
+        <meltingpoint>271.3 °C</meltingpoint>
+    </element>
+    <element id="107">
+        <atomicmass>(264)</atomicmass>
+        <atomicnumber>107</atomicnumber>
+        <atomicsymbol>Bo</atomicsymbol>
+        <boilingpoint>N/A</boilingpoint>
+        <density>37.1 g/cm3</density>
+        <elementname>Bohrium</elementname>
+        <meltingpoint>N/A</meltingpoint>
+    </element>
+    <element id="5">
+        <atomicmass>10.811</atomicmass>
+        <atomicnumber>5</atomicnumber>
+        <atomicsymbol>B</atomicsymbol>
+        <boilingpoint>4000 °C</boilingpoint>
+        <density>2.46 g/cm3</density>
+        <elementname>Boron</elementname>
+        <meltingpoint>2075 °C</meltingpoint>
+    </element>
+    <element id="35">
+        <atomicmass>79.904</atomicmass>
+        <atomicnumber>35</atomicnumber>
+        <atomicsymbol>Br</atomicsymbol>
+        <boilingpoint>59 °C</boilingpoint>
+        <density>3.12 g/cm3</density>
+        <elementname>Bromine</elementname>
+        <meltingpoint>-7.3 °C</meltingpoint>
+    </element>
+    <element id="48">
+        <atomicmass>112.411</atomicmass>
+        <atomicnumber>48</atomicnumber>
+        <atomicsymbol>Cd</atomicsymbol>
+        <boilingpoint>767 °C</boilingpoint>
+        <density>8.65 g/cm3</density>
+        <elementname>Cadmium</elementname>
+        <meltingpoint>321.07 °C</meltingpoint>
+    </element>
+    <element id="20">
+        <atomicmass>40.078</atomicmass>
+        <atomicnumber>20</atomicnumber>
+        <atomicsymbol>Ca</atomicsymbol>
+        <boilingpoint>1484 °C</boilingpoint>
+        <density>1.55 g/cm3</density>
+        <elementname>Calcium</elementname>
+        <meltingpoint>842 °C</meltingpoint>
+    </element>
+    <element id="98">
+        <atomicmass>(251)</atomicmass>
+        <atomicnumber>98</atomicnumber>
+        <atomicsymbol>Cf</atomicsymbol>
+        <boilingpoint>1470 °C</boilingpoint>
+        <density>15.1 g/cm3</density>
+        <elementname>Californium</elementname>
+        <meltingpoint>900 °C</meltingpoint>
+    </element>
+    <element id="6">
+        <atomicmass>12.0107</atomicmass>
+        <atomicnumber>6</atomicnumber>
+        <atomicsymbol>C</atomicsymbol>
+        <boilingpoint>4027 °C</boilingpoint>
+        <density>2.26 g/cm3</density>
+        <elementname>Carbon</elementname>
+        <meltingpoint>3550 °C</meltingpoint>
+    </element>
+    <element id="58">
+        <atomicmass>140.116</atomicmass>
+        <atomicnumber>58</atomicnumber>
+        <atomicsymbol>Ce</atomicsymbol>
+        <boilingpoint>3360 °C</boilingpoint>
+        <density>6.689 g/cm3</density>
+        <elementname>Cerium</elementname>
+        <meltingpoint>798 °C</meltingpoint>
+    </element>
+    <element id="55">
+        <atomicmass>132.90545</atomicmass>
+        <atomicnumber>55</atomicnumber>
+        <atomicsymbol>Cs</atomicsymbol>
+        <boilingpoint>671 °C</boilingpoint>
+        <density>1.879 g/cm3</density>
+        <elementname>Cesium</elementname>
+        <meltingpoint>28.44 °C</meltingpoint>
+    </element>
+    <element id="17">
+        <atomicmass>35.453</atomicmass>
+        <atomicnumber>17</atomicnumber>
+        <atomicsymbol>Cl</atomicsymbol>
+        <boilingpoint>-34.04 °C</boilingpoint>
+        <density>3.214 g/L</density>
+        <elementname>Chlorine</elementname>
+        <meltingpoint>-101.5 °C</meltingpoint>
+    </element>
+    <element id="24">
+        <atomicmass>51.9961</atomicmass>
+        <atomicnumber>24</atomicnumber>
+        <atomicsymbol>Cr</atomicsymbol>
+        <boilingpoint>2671 °C</boilingpoint>
+        <density>7.14 g/cm3</density>
+        <elementname>Chromium</elementname>
+        <meltingpoint>1907 °C</meltingpoint>
+    </element>
+    <element id="27">
+        <atomicmass>58.9332</atomicmass>
+        <atomicnumber>27</atomicnumber>
+        <atomicsymbol>Co</atomicsymbol>
+        <boilingpoint>2927 °C</boilingpoint>
+        <density>8.9 g/cm3</density>
+        <elementname>Cobalt</elementname>
+        <meltingpoint>1495 °C</meltingpoint>
+    </element>
+    <element id="112">
+        <atomicmass>(285)</atomicmass>
+        <atomicnumber>112</atomicnumber>
+        <atomicsymbol>Cn</atomicsymbol>
+        <boilingpoint>85.3 °C</boilingpoint>
+        <density>23.7 g/cm3</density>
+        <elementname>Copernicium</elementname>
+        <meltingpoint>N/A</meltingpoint>
+    </element>
+    <element id="29">
+        <atomicmass>63.546</atomicmass>
+        <atomicnumber>29</atomicnumber>
+        <atomicsymbol>Cu</atomicsymbol>
+        <boilingpoint>2927 °C</boilingpoint>
+        <density>8.92 g/cm3</density>
+        <elementname>Copper</elementname>
+        <meltingpoint>1084.62 °C</meltingpoint>
+    </element>
+    <element id="96">
+        <atomicmass>(247)</atomicmass>
+        <atomicnumber>96</atomicnumber>
+        <atomicsymbol>Cm</atomicsymbol>
+        <boilingpoint>3110 °C</boilingpoint>
+        <density>13.51 g/cm3</density>
+        <elementname>Curium</elementname>
+        <meltingpoint>1345 °C</meltingpoint>
+    </element>
+    <element id="110">
+        <atomicmass>(281)</atomicmass>
+        <atomicnumber>110</atomicnumber>
+        <atomicsymbol>Ds</atomicsymbol>
+        <boilingpoint>N/A</boilingpoint>
+        <density>34.8 g/cm3</density>
+        <elementname>Darmstadtium</elementname>
+        <meltingpoint>N/A</meltingpoint>
+    </element>
+    <element id="105">
+        <atomicmass>(262)</atomicmass>
+        <atomicnumber>105</atomicnumber>
+        <atomicsymbol>Db</atomicsymbol>
+        <boilingpoint>N/A</boilingpoint>
+        <density>29.3 g/cm3</density>
+        <elementname>Dubnium</elementname>
+        <meltingpoint>N/A</meltingpoint>
+    </element>
+    <element id="66">
+        <atomicmass>162.5</atomicmass>
+        <atomicnumber>66</atomicnumber>
+        <atomicsymbol>Dy</atomicsymbol>
+        <boilingpoint>2567 °C</boilingpoint>
+        <density>8.551 g/cm3</density>
+        <elementname>Dysprosium</elementname>
+        <meltingpoint>1412 °C</meltingpoint>
+    </element>
+    <element id="99">
+        <atomicmass>(252)</atomicmass>
+        <atomicnumber>99</atomicnumber>
+        <atomicsymbol>Es</atomicsymbol>
+        <boilingpoint>996 °C</boilingpoint>
+        <density>N/A</density>
+        <elementname>Einsteinium</elementname>
+        <meltingpoint>860 °C</meltingpoint>
+    </element>
+    <element id="68">
+        <atomicmass>167.259</atomicmass>
+        <atomicnumber>68</atomicnumber>
+        <atomicsymbol>Er</atomicsymbol>
+        <boilingpoint>2868 °C</boilingpoint>
+        <density>9.066 g/cm3</density>
+        <elementname>Erbium</elementname>
+        <meltingpoint>1497 °C</meltingpoint>
+    </element>
+    <element id="63">
+        <atomicmass>151.964</atomicmass>
+        <atomicnumber>63</atomicnumber>
+        <atomicsymbol>Eu</atomicsymbol>
+        <boilingpoint>1527 °C</boilingpoint>
+        <density>5.244</density>
+        <elementname>Europium</elementname>
+        <meltingpoint>822 °C</meltingpoint>
+    </element>
+    <element id="100">
+        <atomicmass>(257)</atomicmass>
+        <atomicnumber>100</atomicnumber>
+        <atomicsymbol>Fm</atomicsymbol>
+        <boilingpoint>N/A</boilingpoint>
+        <density>9.7 g/cm3</density>
+        <elementname>Fermium</elementname>
+        <meltingpoint>1527 °C</meltingpoint>
+    </element>
+    <element id="114">
+        <atomicmass>(289)</atomicmass>
+        <atomicnumber>114</atomicnumber>
+        <atomicsymbol>Fl</atomicsymbol>
+        <boilingpoint>−60 °C</boilingpoint>
+        <density>14 g/cm3</density>
+        <elementname>Flerovium</elementname>
+        <meltingpoint>N/A</meltingpoint>
+    </element>
+    <element id="9">
+        <atomicmass>18.9984032</atomicmass>
+        <atomicnumber>9</atomicnumber>
+        <atomicsymbol>F</atomicsymbol>
+        <boilingpoint>-188.12 °C</boilingpoint>
+        <density>1.696 g/L</density>
+        <elementname>Fluorine</elementname>
+        <meltingpoint>-219.6 °C</meltingpoint>
+    </element>
+    <element id="87">
+        <atomicmass>(223)</atomicmass>
+        <atomicnumber>87</atomicnumber>
+        <atomicsymbol>Fr</atomicsymbol>
+        <boilingpoint>680 °C</boilingpoint>
+        <density>2.9 g/cm3</density>
+        <elementname>Francium</elementname>
+        <meltingpoint>30 °C</meltingpoint>
+    </element>
+    <element id="64">
+        <atomicmass>157.25</atomicmass>
+        <atomicnumber>64</atomicnumber>
+        <atomicsymbol>Gd</atomicsymbol>
+        <boilingpoint>3250 °C</boilingpoint>
+        <density>7.901 g/cm3</density>
+        <elementname>Gadolinium</elementname>
+        <meltingpoint>1313 °C</meltingpoint>
+    </element>
+    <element id="31">
+        <atomicmass>69.723</atomicmass>
+        <atomicnumber>31</atomicnumber>
+        <atomicsymbol>Ga</atomicsymbol>
+        <boilingpoint>2204 °C</boilingpoint>
+        <density>5.904 g/cm3</density>
+        <elementname>Gallium</elementname>
+        <meltingpoint>29.76 °C</meltingpoint>
+    </element>
+    <element id="32">
+        <atomicmass>72.64</atomicmass>
+        <atomicnumber>32</atomicnumber>
+        <atomicsymbol>Ge</atomicsymbol>
+        <boilingpoint>2820 °C</boilingpoint>
+        <density>5.323 g/cm3</density>
+        <elementname>Germanium</elementname>
+        <meltingpoint>938.3 °C</meltingpoint>
+    </element>
+    <element id="79">
+        <atomicmass>196.96655</atomicmass>
+        <atomicnumber>79</atomicnumber>
+        <atomicsymbol>Au</atomicsymbol>
+        <boilingpoint>2856 °C</boilingpoint>
+        <density>19.3 g/cm3</density>
+        <elementname>Gold</elementname>
+        <meltingpoint>1064.18 °C</meltingpoint>
+    </element>
+    <element id="72">
+        <atomicmass>178.49</atomicmass>
+        <atomicnumber>72</atomicnumber>
+        <atomicsymbol>Hf</atomicsymbol>
+        <boilingpoint>4603 °C</boilingpoint>
+        <density>13.31 g/cm3</density>
+        <elementname>Halfnium</elementname>
+        <meltingpoint>2233 °C</meltingpoint>
+    </element>
+    <element id="108">
+        <atomicmass>(277)</atomicmass>
+        <atomicnumber>108</atomicnumber>
+        <atomicsymbol>Hs</atomicsymbol>
+        <boilingpoint>N/A</boilingpoint>
+        <density>41 g/cm3</density>
+        <elementname>Hassium</elementname>
+        <meltingpoint>N/A</meltingpoint>
+    </element>
+    <element id="2">
+        <atomicmass>4.002602</atomicmass>
+        <atomicnumber>2</atomicnumber>
+        <atomicsymbol>He</atomicsymbol>
+        <boilingpoint>-268.93 °C</boilingpoint>
+        <density>0.1785 g/L</density>
+        <elementname>Helium</elementname>
+        <meltingpoint>-272.2 °C</meltingpoint>
+    </element>
+    <element id="67">
+        <atomicmass>164.93032</atomicmass>
+        <atomicnumber>67</atomicnumber>
+        <atomicsymbol>Ho</atomicsymbol>
+        <boilingpoint>2700 °C</boilingpoint>
+        <density>8.795 g/cm3</density>
+        <elementname>Holmium</elementname>
+        <meltingpoint>1474 °C</meltingpoint>
+    </element>
+    <element id="1">
+        <atomicmass>1.00794</atomicmass>
+        <atomicnumber>1</atomicnumber>
+        <atomicsymbol>H</atomicsymbol>
+        <boilingpoint>-252.87 °C</boilingpoint>
+        <density>0.0899 g/L</density>
+        <elementname>Hydrogen</elementname>
+        <meltingpoint>-259.14 °C</meltingpoint>
+    </element>
+    <element id="49">
+        <atomicmass>114.818</atomicmass>
+        <atomicnumber>49</atomicnumber>
+        <atomicsymbol>In</atomicsymbol>
+        <boilingpoint>2072 °C</boilingpoint>
+        <density>7.31 g/cm3</density>
+        <elementname>Indium</elementname>
+        <meltingpoint>156.6 °C</meltingpoint>
+    </element>
+    <element id="53">
+        <atomicmass>126.90447</atomicmass>
+        <atomicnumber>53</atomicnumber>
+        <atomicsymbol>I</atomicsymbol>
+        <boilingpoint>184.3 °C</boilingpoint>
+        <density>4.94 g/cm3</density>
+        <elementname>Iodine</elementname>
+        <meltingpoint>113.7 °C</meltingpoint>
+    </element>
+    <element id="77">
+        <atomicmass>192.217</atomicmass>
+        <atomicnumber>77</atomicnumber>
+        <atomicsymbol>Ir</atomicsymbol>
+        <boilingpoint>4428 °C</boilingpoint>
+        <density>22.56 g/cm3</density>
+        <elementname>Iridium</elementname>
+        <meltingpoint>2466 °C</meltingpoint>
+    </element>
+    <element id="26">
+        <atomicmass>55.845</atomicmass>
+        <atomicnumber>26</atomicnumber>
+        <atomicsymbol>Fe</atomicsymbol>
+        <boilingpoint>2861 °C</boilingpoint>
+        <density>7.874 g/cm3</density>
+        <elementname>Iron</elementname>
+        <meltingpoint>1538 °C</meltingpoint>
+    </element>
+    <element id="36">
+        <atomicmass>83.798</atomicmass>
+        <atomicnumber>36</atomicnumber>
+        <atomicsymbol>Kr</atomicsymbol>
+        <boilingpoint>-153.22 °C</boilingpoint>
+        <density>3.75 g/L</density>
+        <elementname>Krypton</elementname>
+        <meltingpoint>-157.36 °C</meltingpoint>
+    </element>
+    <element id="57">
+        <atomicmass>138.9055</atomicmass>
+        <atomicnumber>57</atomicnumber>
+        <atomicsymbol>La</atomicsymbol>
+        <boilingpoint>3464 °C</boilingpoint>
+        <density>6.146 g/cm3</density>
+        <elementname>Lanthanum</elementname>
+        <meltingpoint>920 °C</meltingpoint>
+    </element>
+    <element id="103">
+        <atomicmass>(262)</atomicmass>
+        <atomicnumber>103</atomicnumber>
+        <atomicsymbol>Lr</atomicsymbol>
+        <boilingpoint>N/A</boilingpoint>
+        <density>16.1 g/cm3</density>
+        <elementname>Lawrencium</elementname>
+        <meltingpoint>1627 °C</meltingpoint>
+    </element>
+    <element id="82">
+        <atomicmass>207.2</atomicmass>
+        <atomicnumber>82</atomicnumber>
+        <atomicsymbol>Pb</atomicsymbol>
+        <boilingpoint>1749 °C</boilingpoint>
+        <density>11.34 g/cm3</density>
+        <elementname>Lead</elementname>
+        <meltingpoint>327.46 °C</meltingpoint>
+    </element>
+    <element id="3">
+        <atomicmass>6.941</atomicmass>
+        <atomicnumber>3</atomicnumber>
+        <atomicsymbol>Li</atomicsymbol>
+        <boilingpoint>1342 °C</boilingpoint>
+        <density>0.535 g/cm3</density>
+        <elementname>Lithium</elementname>
+        <meltingpoint>180.54 °C</meltingpoint>
+    </element>
+    <element id="116">
+        <atomicmass>(292)</atomicmass>
+        <atomicnumber>116</atomicnumber>
+        <atomicsymbol>Lv</atomicsymbol>
+        <boilingpoint>812 °C</boilingpoint>
+        <density>12.9 g/cm3</density>
+        <elementname>Livermorium</elementname>
+        <meltingpoint>435.5 °C</meltingpoint>
+    </element>
+    <element id="71">
+        <atomicmass>174.967</atomicmass>
+        <atomicnumber>71</atomicnumber>
+        <atomicsymbol>Lu</atomicsymbol>
+        <boilingpoint>3402 °C</boilingpoint>
+        <density>9.841 g/cm3</density>
+        <elementname>Luterium</elementname>
+        <meltingpoint>1663 °C</meltingpoint>
+    </element>
+    <element id="12">
+        <atomicmass>24.3050</atomicmass>
+        <atomicnumber>12</atomicnumber>
+        <atomicsymbol>Mg</atomicsymbol>
+        <boilingpoint>1090 °C</boilingpoint>
+        <density>1.738 g/cm3</density>
+        <elementname>Magnesium</elementname>
+        <meltingpoint>650 °C</meltingpoint>
+    </element>
+    <element id="25">
+        <atomicmass>54.938049</atomicmass>
+        <atomicnumber>25</atomicnumber>
+        <atomicsymbol>Mn</atomicsymbol>
+        <boilingpoint>2061 °C</boilingpoint>
+        <density>7.47 g/cm3</density>
+        <elementname>Manganese</elementname>
+        <meltingpoint>1246 °C</meltingpoint>
+    </element>
+    <element id="109">
+        <atomicmass>(268)</atomicmass>
+        <atomicnumber>109</atomicnumber>
+        <atomicsymbol>Mt</atomicsymbol>
+        <boilingpoint>N/A</boilingpoint>
+        <density>37.4 g/cm3</density>
+        <elementname>Meitnerium</elementname>
+        <meltingpoint>N/A</meltingpoint>
+    </element>
+    <element id="101">
+        <atomicmass>(258)</atomicmass>
+        <atomicnumber>101</atomicnumber>
+        <atomicsymbol>Md</atomicsymbol>
+        <boilingpoint>N/A</boilingpoint>
+        <density>10.3 g/cm3</density>
+        <elementname>Mendelevium</elementname>
+        <meltingpoint>827 °C</meltingpoint>
+    </element>
+    <element id="80">
+        <atomicmass>200.59</atomicmass>
+        <atomicnumber>80</atomicnumber>
+        <atomicsymbol>Hg</atomicsymbol>
+        <boilingpoint>356.73 °C</boilingpoint>
+        <density>13.534 g/cm3</density>
+        <elementname>Mercury</elementname>
+        <meltingpoint>-38.83 °C</meltingpoint>
+    </element>
+    <element id="42">
+        <atomicmass>95.94</atomicmass>
+        <atomicnumber>42</atomicnumber>
+        <atomicsymbol>Mo</atomicsymbol>
+        <boilingpoint>4639 °C</boilingpoint>
+        <density>10.28 g/cm3</density>
+        <elementname>Molybdenum</elementname>
+        <meltingpoint>2623 °C</meltingpoint>
+    </element>
+    <element id="115">
+        <atomicmass>(288)</atomicmass>
+        <atomicnumber>115</atomicnumber>
+        <atomicsymbol>Mc</atomicsymbol>
+        <boilingpoint>1100 °C</boilingpoint>
+        <density>13.5 g/cm3</density>
+        <elementname>Moscovium</elementname>
+        <meltingpoint>400 °C</meltingpoint>
+    </element>
+    <element id="60">
+        <atomicmass>144.24</atomicmass>
+        <atomicnumber>60</atomicnumber>
+        <atomicsymbol>Nd</atomicsymbol>
+        <boilingpoint>3100 °C</boilingpoint>
+        <density>7.01 g/cm3</density>
+        <elementname>Neodymium</elementname>
+        <meltingpoint>1021 °C</meltingpoint>
+    </element>
+    <element id="10">
+        <atomicmass>20.1797</atomicmass>
+        <atomicnumber>10</atomicnumber>
+        <atomicsymbol>Ne</atomicsymbol>
+        <boilingpoint>-246.08 °C</boilingpoint>
+        <density>0.9 g/L</density>
+        <elementname>Neon</elementname>
+        <meltingpoint>-248.59 °C</meltingpoint>
+    </element>
+    <element id="93">
+        <atomicmass>(237)</atomicmass>
+        <atomicnumber>93</atomicnumber>
+        <atomicsymbol>Np</atomicsymbol>
+        <boilingpoint>4000 °C</boilingpoint>
+        <density>20.45 g/cm3</density>
+        <elementname>Neptunium</elementname>
+        <meltingpoint>644 °C</meltingpoint>
+    </element>
+    <element id="28">
+        <atomicmass>58.6934</atomicmass>
+        <atomicnumber>28</atomicnumber>
+        <atomicsymbol>Ni</atomicsymbol>
+        <boilingpoint>2913 °C</boilingpoint>
+        <density>8.908 g/cm3</density>
+        <elementname>Nickel</elementname>
+        <meltingpoint>1455 °C</meltingpoint>
+    </element>
+    <element id="113">
+        <atomicmass>(284)</atomicmass>
+        <atomicnumber>113</atomicnumber>
+        <atomicsymbol>Nh</atomicsymbol>
+        <boilingpoint>1130 °C</boilingpoint>
+        <density>16 g/cm3</density>
+        <elementname>Nihonium</elementname>
+        <meltingpoint>430 °C</meltingpoint>
+    </element>
+    <element id="41">
+        <atomicmass>92.90638</atomicmass>
+        <atomicnumber>41</atomicnumber>
+        <atomicsymbol>Nb</atomicsymbol>
+        <boilingpoint>4744 °C</boilingpoint>
+        <density>8.57 g/cm3</density>
+        <elementname>Niobium</elementname>
+        <meltingpoint>2477 °C</meltingpoint>
+    </element>
+    <element id="7">
+        <atomicmass>14.0067</atomicmass>
+        <atomicnumber>7</atomicnumber>
+        <atomicsymbol>N</atomicsymbol>
+        <boilingpoint>-195.79 °C</boilingpoint>
+        <density>1.251 g/L</density>
+        <elementname>Nitrogen</elementname>
+        <meltingpoint>-210.1 °C</meltingpoint>
+    </element>
+    <element id="102">
+        <atomicmass>(259)</atomicmass>
+        <atomicnumber>102</atomicnumber>
+        <atomicsymbol>No</atomicsymbol>
+        <boilingpoint>N/A</boilingpoint>
+        <density>9.9 g/cm3</density>
+        <elementname>Nobelium</elementname>
+        <meltingpoint>827 °C</meltingpoint>
+    </element>
+    <element id="118">
+        <atomicmass>(294)</atomicmass>
+        <atomicnumber>118</atomicnumber>
+        <atomicsymbol>Og</atomicsymbol>
+        <boilingpoint>80 °C</boilingpoint>
+        <density>5 g/cm3</density>
+        <elementname>Oganesson</elementname>
+        <meltingpoint>N/A</meltingpoint>
+    </element>
+    <element id="76">
+        <atomicmass>190.23</atomicmass>
+        <atomicnumber>76</atomicnumber>
+        <atomicsymbol>Os</atomicsymbol>
+        <boilingpoint>5012 °C</boilingpoint>
+        <density>22.59 g/cm3</density>
+        <elementname>Osmium</elementname>
+        <meltingpoint>3033 °C</meltingpoint>
+    </element>
+    <element id="8">
+        <atomicmass>15.9994</atomicmass>
+        <atomicnumber>8</atomicnumber>
+        <atomicsymbol>O</atomicsymbol>
+        <boilingpoint>-182.9 °C</boilingpoint>
+        <density>1.429 g/L</density>
+        <elementname>Oxygen</elementname>
+        <meltingpoint>-218.3 °C</meltingpoint>
+    </element>
+    <element id="46">
+        <atomicmass>106.42</atomicmass>
+        <atomicnumber>46</atomicnumber>
+        <atomicsymbol>Pb</atomicsymbol>
+        <boilingpoint>2963 °C</boilingpoint>
+        <density>12.023 g/cm3</density>
+        <elementname>Palladium</elementname>
+        <meltingpoint>1554.9 °C</meltingpoint>
+    </element>
+    <element id="15">
+        <atomicmass>30.973761</atomicmass>
+        <atomicnumber>15</atomicnumber>
+        <atomicsymbol>P</atomicsymbol>
+        <boilingpoint>280.5 °C</boilingpoint>
+        <density>1.823g/cm3</density>
+        <elementname>Phosphorus</elementname>
+        <meltingpoint>44.2 °C</meltingpoint>
+    </element>
+    <element id="78">
+        <atomicmass>195.078</atomicmass>
+        <atomicnumber>78</atomicnumber>
+        <atomicsymbol>Pt</atomicsymbol>
+        <boilingpoint>3825 °C</boilingpoint>
+        <density>21.09 g/cm3</density>
+        <elementname>Platinum</elementname>
+        <meltingpoint>1768.3 °C</meltingpoint>
+    </element>
+    <element id="94">
+        <atomicmass>(244)</atomicmass>
+        <atomicnumber>94</atomicnumber>
+        <atomicsymbol>Pu</atomicsymbol>
+        <boilingpoint>3230 °C</boilingpoint>
+        <density>19.816 g/cm3</density>
+        <elementname>Plutonium</elementname>
+        <meltingpoint>640 °C</meltingpoint>
+    </element>
+    <element id="84">
+        <atomicmass>(209)</atomicmass>
+        <atomicnumber>84</atomicnumber>
+        <atomicsymbol>Po</atomicsymbol>
+        <boilingpoint>962 °C</boilingpoint>
+        <density>9.196 g/cm3</density>
+        <elementname>Polonium</elementname>
+        <meltingpoint>254 °C</meltingpoint>
+    </element>
+    <element id="19">
+        <atomicmass>39.0983</atomicmass>
+        <atomicnumber>19</atomicnumber>
+        <atomicsymbol>K</atomicsymbol>
+        <boilingpoint>759 °C</boilingpoint>
+        <density>0.856 g/cm3</density>
+        <elementname>Potassium</elementname>
+        <meltingpoint>63.38 °C</meltingpoint>
+    </element>
+    <element id="59">
+        <atomicmass>140.90765</atomicmass>
+        <atomicnumber>59</atomicnumber>
+        <atomicsymbol>Pr</atomicsymbol>
+        <boilingpoint>3290 °C</boilingpoint>
+        <density>140.90765 g/cm3</density>
+        <elementname>Praseodymium</elementname>
+        <meltingpoint>931 °C</meltingpoint>
+    </element>
+    <element id="61">
+        <atomicmass>(145)</atomicmass>
+        <atomicnumber>61</atomicnumber>
+        <atomicsymbol>Pm</atomicsymbol>
+        <boilingpoint>3000 °C</boilingpoint>
+        <density>7.264 g/cm3</density>
+        <elementname>Promethium</elementname>
+        <meltingpoint>1100 °C</meltingpoint>
+    </element>
+    <element id="91">
+        <atomicmass>231.03588</atomicmass>
+        <atomicnumber>91</atomicnumber>
+        <atomicsymbol>Pa</atomicsymbol>
+        <boilingpoint>4000 °C</boilingpoint>
+        <density>15.37 g/cm3</density>
+        <elementname>Protactinium</elementname>
+        <meltingpoint>1572 °C</meltingpoint>
+    </element>
+    <element id="88">
+        <atomicmass>(226)</atomicmass>
+        <atomicnumber>88</atomicnumber>
+        <atomicsymbol>Ra</atomicsymbol>
+        <boilingpoint>1737 °C</boilingpoint>
+        <density>5 g/cm3</density>
+        <elementname>Radium</elementname>
+        <meltingpoint>700 °C</meltingpoint>
+    </element>
+    <element id="86">
+        <atomicmass>(222)</atomicmass>
+        <atomicnumber>86</atomicnumber>
+        <atomicsymbol>Rn</atomicsymbol>
+        <boilingpoint>-61.7 °C</boilingpoint>
+        <density>9.73 g/L</density>
+        <elementname>Radon</elementname>
+        <meltingpoint>-71 °C</meltingpoint>
+    </element>
+    <element id="75">
+        <atomicmass>186.207</atomicmass>
+        <atomicnumber>75</atomicnumber>
+        <atomicsymbol>Re</atomicsymbol>
+        <boilingpoint>5596 °C</boilingpoint>
+        <density>21.02 g/cm3</density>
+        <elementname>Rhenium</elementname>
+        <meltingpoint>3186 °C</meltingpoint>
+    </element>
+    <element id="45">
+        <atomicmass>102.90550</atomicmass>
+        <atomicnumber>45</atomicnumber>
+        <atomicsymbol>Rh</atomicsymbol>
+        <boilingpoint>3695 °C</boilingpoint>
+        <density>12.45 g/cm3</density>
+        <elementname>Rhodium</elementname>
+        <meltingpoint>1964 °C</meltingpoint>
+    </element>
+    <element id="111">
+        <atomicmass>(272)</atomicmass>
+        <atomicnumber>111</atomicnumber>
+        <atomicsymbol>Rg</atomicsymbol>
+        <boilingpoint>N/A</boilingpoint>
+        <density>28.7 g/cm3</density>
+        <elementname>Roentgenium</elementname>
+        <meltingpoint>N/A</meltingpoint>
+    </element>
+    <element id="37">
+        <atomicmass>85.4678</atomicmass>
+        <atomicnumber>37</atomicnumber>
+        <atomicsymbol>Rb</atomicsymbol>
+        <boilingpoint>688 °C</boilingpoint>
+        <density>1.532 g/cm3</density>
+        <elementname>Rubidium</elementname>
+        <meltingpoint>39.31 °C</meltingpoint>
+    </element>
+    <element id="44">
+        <atomicmass>101.07</atomicmass>
+        <atomicnumber>44</atomicnumber>
+        <atomicsymbol>Ru</atomicsymbol>
+        <boilingpoint>4150 °C</boilingpoint>
+        <density>12.37 g/cm3</density>
+        <elementname>Ruthenium</elementname>
+        <meltingpoint>2334 °C</meltingpoint>
+    </element>
+    <element id="104">
+        <atomicmass>(261)</atomicmass>
+        <atomicnumber>104</atomicnumber>
+        <atomicsymbol>Rf</atomicsymbol>
+        <boilingpoint>5500 °C</boilingpoint>
+        <density>23.2 g/cm3</density>
+        <elementname>Rutherfordium</elementname>
+        <meltingpoint>2100 °C</meltingpoint>
+    </element>
+    <element id="62">
+        <atomicmass>150.36</atomicmass>
+        <atomicnumber>62</atomicnumber>
+        <atomicsymbol>Sm</atomicsymbol>
+        <boilingpoint>1803 °C</boilingpoint>
+        <density>7.353 g/cm3</density>
+        <elementname>Samarium</elementname>
+        <meltingpoint>1072 °C</meltingpoint>
+    </element>
+    <element id="21">
+        <atomicmass>44.955910</atomicmass>
+        <atomicnumber>21</atomicnumber>
+        <atomicsymbol>Sc</atomicsymbol>
+        <boilingpoint>2830 °C</boilingpoint>
+        <density>2.985 g/cm3</density>
+        <elementname>Scandium</elementname>
+        <meltingpoint>1541 °C</meltingpoint>
+    </element>
+    <element id="106">
+        <atomicmass>(266)</atomicmass>
+        <atomicnumber>106</atomicnumber>
+        <atomicsymbol>Sg</atomicsymbol>
+        <boilingpoint>N/A</boilingpoint>
+        <density>35 g/cm3</density>
+        <elementname>Seaborgium</elementname>
+        <meltingpoint>N/A</meltingpoint>
+    </element>
+    <element id="34">
+        <atomicmass>78.96</atomicmass>
+        <atomicnumber>34</atomicnumber>
+        <atomicsymbol>Se</atomicsymbol>
+        <boilingpoint>685 °C</boilingpoint>
+        <density>4.819 g/cm3</density>
+        <elementname>Selenium</elementname>
+        <meltingpoint>221 °C</meltingpoint>
+    </element>
+    <element id="14">
+        <atomicmass>28.0855</atomicmass>
+        <atomicnumber>14</atomicnumber>
+        <atomicsymbol>Si</atomicsymbol>
+        <boilingpoint>2900 °C</boilingpoint>
+        <density>2.33 g/cm3</density>
+        <elementname>Silicon</elementname>
+        <meltingpoint>1414 °C</meltingpoint>
+    </element>
+    <element id="47">
+        <atomicmass>107.8682</atomicmass>
+        <atomicnumber>47</atomicnumber>
+        <atomicsymbol>Ag</atomicsymbol>
+        <boilingpoint>2162 °C</boilingpoint>
+        <density>10.49 g/cm3</density>
+        <elementname>Silver</elementname>
+        <meltingpoint>961.78 °C</meltingpoint>
+    </element>
+    <element id="11">
+        <atomicmass>22.989770</atomicmass>
+        <atomicnumber>11</atomicnumber>
+        <atomicsymbol>Na</atomicsymbol>
+        <boilingpoint>883 °C</boilingpoint>
+        <density>0.968 g/cm3</density>
+        <elementname>Sodium</elementname>
+        <meltingpoint>97.72 °C</meltingpoint>
+    </element>
+    <element id="38">
+        <atomicmass>87.62</atomicmass>
+        <atomicnumber>38</atomicnumber>
+        <atomicsymbol>Sr</atomicsymbol>
+        <boilingpoint>1382 °C</boilingpoint>
+        <density>2.63 g/cm3</density>
+        <elementname>Strontium</elementname>
+        <meltingpoint>777 °C</meltingpoint>
+    </element>
+    <element id="16">
+        <atomicmass>32.065</atomicmass>
+        <atomicnumber>16</atomicnumber>
+        <atomicsymbol>S</atomicsymbol>
+        <boilingpoint>444.72 °C</boilingpoint>
+        <density>1.96 g/cm3</density>
+        <elementname>Sulfur</elementname>
+        <meltingpoint>115.21 °C</meltingpoint>
+    </element>
+    <element id="73">
+        <atomicmass>180.9479</atomicmass>
+        <atomicnumber>73</atomicnumber>
+        <atomicsymbol>Ta</atomicsymbol>
+        <boilingpoint>5458 °C</boilingpoint>
+        <density>16.65 g/cm3</density>
+        <elementname>Tantalum</elementname>
+        <meltingpoint>3017 °C</meltingpoint>
+    </element>
+    <element id="43">
+        <atomicmass>(98)</atomicmass>
+        <atomicnumber>43</atomicnumber>
+        <atomicsymbol>Tc</atomicsymbol>
+        <boilingpoint>4265 °C</boilingpoint>
+        <density>11.5 g/cm3</density>
+        <elementname>Technetium</elementname>
+        <meltingpoint>2157 °C</meltingpoint>
+    </element>
+    <element id="52">
+        <atomicmass>127.60</atomicmass>
+        <atomicnumber>52</atomicnumber>
+        <atomicsymbol>Te</atomicsymbol>
+        <boilingpoint>988 °C</boilingpoint>
+        <density>6.24 g/cm3</density>
+        <elementname>Tellurium</elementname>
+        <meltingpoint>449.51 °C</meltingpoint>
+    </element>
+    <element id="117">
+        <atomicmass>(294)</atomicmass>
+        <atomicnumber>117</atomicnumber>
+        <atomicsymbol>Ts</atomicsymbol>
+        <boilingpoint>610 °C</boilingpoint>
+        <density>7.2 g/cm3</density>
+        <elementname>Tennessine</elementname>
+        <meltingpoint>450 °C</meltingpoint>
+    </element>
+    <element id="65">
+        <atomicmass>158.92534</atomicmass>
+        <atomicnumber>65</atomicnumber>
+        <atomicsymbol>Tb</atomicsymbol>
+        <boilingpoint>3230 °C</boilingpoint>
+        <density>8.219 g/cm3</density>
+        <elementname>Terbium</elementname>
+        <meltingpoint>1356 °C</meltingpoint>
+    </element>
+    <element id="81">
+        <atomicmass>204.3833</atomicmass>
+        <atomicnumber>81</atomicnumber>
+        <atomicsymbol>Tl</atomicsymbol>
+        <boilingpoint>1473 °C</boilingpoint>
+        <density>11.85 g/cm3</density>
+        <elementname>Thallium</elementname>
+        <meltingpoint>304 °C</meltingpoint>
+    </element>
+    <element id="90">
+        <atomicmass>232.0381</atomicmass>
+        <atomicnumber>90</atomicnumber>
+        <atomicsymbol>Th</atomicsymbol>
+        <boilingpoint>4820 °C</boilingpoint>
+        <density>11.724 g/cm3</density>
+        <elementname>Thorium</elementname>
+        <meltingpoint>1750 °C</meltingpoint>
+    </element>
+    <element id="69">
+        <atomicmass>168.93421</atomicmass>
+        <atomicnumber>69</atomicnumber>
+        <atomicsymbol>Tm</atomicsymbol>
+        <boilingpoint>1950 °C</boilingpoint>
+        <density>9.321 g/cm3</density>
+        <elementname>Thulium</elementname>
+        <meltingpoint>1545 °C</meltingpoint>
+    </element>
+    <element id="50">
+        <atomicmass>118.710</atomicmass>
+        <atomicnumber>50</atomicnumber>
+        <atomicsymbol>Sn</atomicsymbol>
+        <boilingpoint>2602 °C</boilingpoint>
+        <density>7.31 g/cm3</density>
+        <elementname>Tin</elementname>
+        <meltingpoint>231.93 °C</meltingpoint>
+    </element>
+    <element id="22">
+        <atomicmass>47.867</atomicmass>
+        <atomicnumber>22</atomicnumber>
+        <atomicsymbol>Ti</atomicsymbol>
+        <boilingpoint>3287 °C</boilingpoint>
+        <density>4.507 g/cm3</density>
+        <elementname>Titanium</elementname>
+        <meltingpoint>1668 °C</meltingpoint>
+    </element>
+    <element id="74">
+        <atomicmass>183.84</atomicmass>
+        <atomicnumber>74</atomicnumber>
+        <atomicsymbol>W</atomicsymbol>
+        <boilingpoint>5555 °C</boilingpoint>
+        <density>19.25 g/cm3</density>
+        <elementname>Tungsten</elementname>
+        <meltingpoint>3422 °C</meltingpoint>
+    </element>
+    <element id="92">
+        <atomicmass>238.02891</atomicmass>
+        <atomicnumber>92</atomicnumber>
+        <atomicsymbol>U</atomicsymbol>
+        <boilingpoint>3927 °C</boilingpoint>
+        <density>19.05 g/cm3</density>
+        <elementname>Uranium</elementname>
+        <meltingpoint>1135 °C</meltingpoint>
+    </element>
+    <element id="23">
+        <atomicmass>50.9415</atomicmass>
+        <atomicnumber>23</atomicnumber>
+        <atomicsymbol>V</atomicsymbol>
+        <boilingpoint>3407 °C</boilingpoint>
+        <density>6.11 g/cm3</density>
+        <elementname>Vanadium</elementname>
+        <meltingpoint>1910 °C</meltingpoint>
+    </element>
+    <element id="54">
+        <atomicmass>131.293</atomicmass>
+        <atomicnumber>54</atomicnumber>
+        <atomicsymbol>Xe</atomicsymbol>
+        <boilingpoint>-108 °C</boilingpoint>
+        <density>5.9 g/L</density>
+        <elementname>Xenon</elementname>
+        <meltingpoint>-111.8 °C</meltingpoint>
+    </element>
+    <element id="70">
+        <atomicmass>173.04</atomicmass>
+        <atomicnumber>70</atomicnumber>
+        <atomicsymbol>Yb</atomicsymbol>
+        <boilingpoint>1196 °C</boilingpoint>
+        <density>6.57 g/cm3</density>
+        <elementname>Ytterbium</elementname>
+        <meltingpoint>819 °C</meltingpoint>
+    </element>
+    <element id="39">
+        <atomicmass>88.90585</atomicmass>
+        <atomicnumber>39</atomicnumber>
+        <atomicsymbol>Y</atomicsymbol>
+        <boilingpoint>3345 °C</boilingpoint>
+        <density>4.472 g/cm3</density>
+        <elementname>Yttrium</elementname>
+        <meltingpoint>1526 °C</meltingpoint>
+    </element>
+    <element id="30">
+        <atomicmass>65.409</atomicmass>
+        <atomicnumber>30</atomicnumber>
+        <atomicsymbol>Zn</atomicsymbol>
+        <boilingpoint>907 °C</boilingpoint>
+        <density>7.14 g/cm3</density>
+        <elementname>Zinc</elementname>
+        <meltingpoint>419.53 °C</meltingpoint>
+    </element>
+    <element id="40">
+        <atomicmass>91.224</atomicmass>
+        <atomicnumber>40</atomicnumber>
+        <atomicsymbol>Zr</atomicsymbol>
+        <boilingpoint>4409 °C</boilingpoint>
+        <density>6.511 g/cm3</density>
+        <elementname>Zirconium</elementname>
+        <meltingpoint>1855 °C</meltingpoint>
+    </element>
+</table>

@@ -25,7 +25,7 @@
             <Font name="Bradley Hand Bold" size="72.0" />
          </font>
       </Label>
-      <GridPane fx:id="H" alignment="CENTER" layoutX="25.0" layoutY="25.0">
+      <GridPane alignment="CENTER" layoutX="25.0" layoutY="25.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -40,10 +40,10 @@
                   <Label alignment="CENTER" contentDisplay="CENTER" text="H" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="1" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" text="1" textFill="TRANSPARENT" />
          </children>
       </GridPane>
-      <GridPane fx:id="He" alignment="CENTER" layoutX="875.0" layoutY="25.0">
+      <GridPane alignment="CENTER" layoutX="875.0" layoutY="25.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -58,10 +58,10 @@
                   <Label alignment="CENTER" contentDisplay="CENTER" text="He" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="2" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Li" alignment="CENTER" layoutX="25.0" layoutY="75.0">
+      <GridPane alignment="CENTER" layoutX="25.0" layoutY="75.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -76,10 +76,10 @@
                   <Label text="Li" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="3" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Be" alignment="CENTER" layoutX="75.0" layoutY="75.0">
+      <GridPane alignment="CENTER" layoutX="75.0" layoutY="75.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -94,10 +94,10 @@
                   <Label text="Be" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="4" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="B" alignment="CENTER" layoutX="625.0" layoutY="75.0">
+      <GridPane alignment="CENTER" layoutX="625.0" layoutY="75.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -112,10 +112,10 @@
                   <Label text="B" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="5" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="C" alignment="CENTER" layoutX="675.0" layoutY="75.0">
+      <GridPane alignment="CENTER" layoutX="675.0" layoutY="75.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -130,10 +130,10 @@
                   <Label text="C" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="6" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="N" alignment="CENTER" layoutX="725.0" layoutY="75.0">
+      <GridPane alignment="CENTER" layoutX="725.0" layoutY="75.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -148,10 +148,10 @@
                   <Label text="N" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="7" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="O" alignment="CENTER" layoutX="775.0" layoutY="75.0">
+      <GridPane alignment="CENTER" layoutX="775.0" layoutY="75.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -166,10 +166,10 @@
                   <Label text="O" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="8" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="F" alignment="CENTER" layoutX="825.0" layoutY="75.0">
+      <GridPane alignment="CENTER" layoutX="825.0" layoutY="75.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -184,10 +184,10 @@
                   <Label text="F" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="9" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Ne" alignment="CENTER" layoutX="875.0" layoutY="75.0">
+      <GridPane alignment="CENTER" layoutX="875.0" layoutY="75.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -202,10 +202,10 @@
                   <Label text="Ne" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="10" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Na" alignment="CENTER" layoutX="25.0" layoutY="125.0">
+      <GridPane alignment="CENTER" layoutX="25.0" layoutY="125.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -220,10 +220,10 @@
                   <Label text="Na" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="11" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Mg" alignment="CENTER" layoutX="75.0" layoutY="125.0">
+      <GridPane alignment="CENTER" layoutX="75.0" layoutY="125.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -238,10 +238,10 @@
                   <Label text="Mg" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="12" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Al" alignment="CENTER" layoutX="625.0" layoutY="125.0">
+      <GridPane alignment="CENTER" layoutX="625.0" layoutY="125.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -256,10 +256,10 @@
                   <Label text="Al" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="13" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Si" alignment="CENTER" layoutX="675.0" layoutY="125.0">
+      <GridPane alignment="CENTER" layoutX="675.0" layoutY="125.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -274,10 +274,10 @@
                   <Label text="Si" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="14" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="P" alignment="CENTER" layoutX="725.0" layoutY="125.0">
+      <GridPane alignment="CENTER" layoutX="725.0" layoutY="125.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -292,10 +292,10 @@
                   <Label text="P" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="15" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="S" alignment="CENTER" layoutX="775.0" layoutY="125.0">
+      <GridPane alignment="CENTER" layoutX="775.0" layoutY="125.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -310,10 +310,10 @@
                   <Label text="S" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="16" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Cl" alignment="CENTER" layoutX="825.0" layoutY="125.0">
+      <GridPane alignment="CENTER" layoutX="825.0" layoutY="125.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -328,10 +328,10 @@
                   <Label text="Cl" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="17" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Ar" alignment="CENTER" layoutX="875.0" layoutY="125.0">
+      <GridPane alignment="CENTER" layoutX="875.0" layoutY="125.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -346,10 +346,10 @@
                   <Label text="Ar" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="18" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="K" alignment="CENTER" layoutX="25.0" layoutY="175.0">
+      <GridPane alignment="CENTER" layoutX="25.0" layoutY="175.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -364,10 +364,10 @@
                   <Label text="K" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="19" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Ca" alignment="CENTER" layoutX="75.0" layoutY="175.0">
+      <GridPane alignment="CENTER" layoutX="75.0" layoutY="175.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -382,10 +382,10 @@
                   <Label text="Ca" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="20" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Sc" alignment="CENTER" layoutX="125.0" layoutY="175.0">
+      <GridPane alignment="CENTER" layoutX="125.0" layoutY="175.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -400,10 +400,10 @@
                   <Label text="Sc" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="21" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Ti" alignment="CENTER" layoutX="175.0" layoutY="175.0">
+      <GridPane alignment="CENTER" layoutX="175.0" layoutY="175.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -418,10 +418,10 @@
                   <Label text="Ti" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="22" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="V" alignment="CENTER" layoutX="225.0" layoutY="175.0">
+      <GridPane alignment="CENTER" layoutX="225.0" layoutY="175.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -436,10 +436,10 @@
                   <Label text="V" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="23" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Cr" alignment="CENTER" layoutX="275.0" layoutY="175.0">
+      <GridPane alignment="CENTER" layoutX="275.0" layoutY="175.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -454,10 +454,10 @@
                   <Label text="Cr" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="24" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Mn" alignment="CENTER" layoutX="325.0" layoutY="175.0">
+      <GridPane alignment="CENTER" layoutX="325.0" layoutY="175.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -472,10 +472,10 @@
                   <Label text="Mn" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="25" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Fe" alignment="CENTER" layoutX="375.0" layoutY="175.0">
+      <GridPane alignment="CENTER" layoutX="375.0" layoutY="175.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -490,10 +490,10 @@
                   <Label text="Fe" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="26" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Co" alignment="CENTER" layoutX="425.0" layoutY="175.0">
+      <GridPane alignment="CENTER" layoutX="425.0" layoutY="175.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -508,10 +508,10 @@
                   <Label text="Co" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="27" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Ni" alignment="CENTER" layoutX="475.0" layoutY="175.0">
+      <GridPane alignment="CENTER" layoutX="475.0" layoutY="175.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -526,10 +526,10 @@
                   <Label text="Ni" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="28" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Cu" alignment="CENTER" layoutX="525.0" layoutY="175.0">
+      <GridPane alignment="CENTER" layoutX="525.0" layoutY="175.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -544,10 +544,10 @@
                   <Label text="Cu" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="29" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Zn" alignment="CENTER" layoutX="575.0" layoutY="175.0">
+      <GridPane alignment="CENTER" layoutX="575.0" layoutY="175.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -562,10 +562,10 @@
                   <Label text="Zn" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="30" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Ga" alignment="CENTER" layoutX="625.0" layoutY="175.0">
+      <GridPane alignment="CENTER" layoutX="625.0" layoutY="175.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -580,10 +580,10 @@
                   <Label text="Ga" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="31" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Ge" alignment="CENTER" layoutX="675.0" layoutY="175.0">
+      <GridPane alignment="CENTER" layoutX="675.0" layoutY="175.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -598,10 +598,10 @@
                   <Label text="Ge" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="32" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="As" alignment="CENTER" layoutX="725.0" layoutY="175.0">
+      <GridPane alignment="CENTER" layoutX="725.0" layoutY="175.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -616,10 +616,10 @@
                   <Label text="As" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="33" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Se" alignment="CENTER" layoutX="775.0" layoutY="175.0">
+      <GridPane alignment="CENTER" layoutX="775.0" layoutY="175.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -634,10 +634,10 @@
                   <Label text="Se" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="34" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Br" alignment="CENTER" layoutX="825.0" layoutY="175.0">
+      <GridPane alignment="CENTER" layoutX="825.0" layoutY="175.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -652,10 +652,10 @@
                   <Label text="Br" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="35" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Kr" alignment="CENTER" layoutX="875.0" layoutY="175.0">
+      <GridPane alignment="CENTER" layoutX="875.0" layoutY="175.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -670,10 +670,10 @@
                   <Label text="Kr" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="36" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Rb" alignment="CENTER" layoutX="25.0" layoutY="225.0">
+      <GridPane alignment="CENTER" layoutX="25.0" layoutY="225.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -688,10 +688,10 @@
                   <Label text="Rb" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="37" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Sr" alignment="CENTER" layoutX="75.0" layoutY="225.0">
+      <GridPane alignment="CENTER" layoutX="75.0" layoutY="225.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -706,10 +706,10 @@
                   <Label text="Sr" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="38" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Y" alignment="CENTER" layoutX="125.0" layoutY="225.0">
+      <GridPane alignment="CENTER" layoutX="125.0" layoutY="225.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -724,10 +724,10 @@
                   <Label text="Y" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="39" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Zr" alignment="CENTER" layoutX="175.0" layoutY="225.0">
+      <GridPane alignment="CENTER" layoutX="175.0" layoutY="225.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -742,10 +742,10 @@
                   <Label text="Zr" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="40" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Nb" alignment="CENTER" layoutX="225.0" layoutY="225.0">
+      <GridPane alignment="CENTER" layoutX="225.0" layoutY="225.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -760,10 +760,10 @@
                   <Label text="Nb" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="41" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Mo" alignment="CENTER" layoutX="275.0" layoutY="225.0">
+      <GridPane alignment="CENTER" layoutX="275.0" layoutY="225.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -778,10 +778,10 @@
                   <Label text="Mo" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="42" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Tc" alignment="CENTER" layoutX="325.0" layoutY="225.0">
+      <GridPane alignment="CENTER" layoutX="325.0" layoutY="225.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -796,10 +796,10 @@
                   <Label text="Tc" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="43" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Ru" alignment="CENTER" layoutX="375.0" layoutY="225.0">
+      <GridPane alignment="CENTER" layoutX="375.0" layoutY="225.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -814,10 +814,10 @@
                   <Label text="Ru" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="44" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Rh" alignment="CENTER" layoutX="425.0" layoutY="225.0">
+      <GridPane alignment="CENTER" layoutX="425.0" layoutY="225.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -832,10 +832,10 @@
                   <Label text="Rh" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="45" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Pd" alignment="CENTER" layoutX="475.0" layoutY="225.0">
+      <GridPane alignment="CENTER" layoutX="475.0" layoutY="225.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -850,10 +850,10 @@
                   <Label text="Pd" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="46" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Ag" alignment="CENTER" layoutX="525.0" layoutY="225.0">
+      <GridPane alignment="CENTER" layoutX="525.0" layoutY="225.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -868,10 +868,10 @@
                   <Label text="Ag" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="47" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Cd" alignment="CENTER" layoutX="575.0" layoutY="225.0">
+      <GridPane alignment="CENTER" layoutX="575.0" layoutY="225.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -886,10 +886,10 @@
                   <Label text="Cd" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="48" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="In" alignment="CENTER" layoutX="625.0" layoutY="225.0">
+      <GridPane alignment="CENTER" layoutX="625.0" layoutY="225.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -904,10 +904,10 @@
                   <Label text="In" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="49" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Sn" alignment="CENTER" layoutX="675.0" layoutY="225.0">
+      <GridPane alignment="CENTER" layoutX="675.0" layoutY="225.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -922,10 +922,10 @@
                   <Label text="Sn" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="50" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Sb" alignment="CENTER" layoutX="725.0" layoutY="225.0">
+      <GridPane alignment="CENTER" layoutX="725.0" layoutY="225.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -940,10 +940,10 @@
                   <Label text="Sb" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="51" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Te" alignment="CENTER" layoutX="775.0" layoutY="225.0">
+      <GridPane alignment="CENTER" layoutX="775.0" layoutY="225.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -958,10 +958,10 @@
                   <Label text="Te" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="52" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="I" alignment="CENTER" layoutX="825.0" layoutY="225.0">
+      <GridPane alignment="CENTER" layoutX="825.0" layoutY="225.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -976,10 +976,10 @@
                   <Label text="I" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="53" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Xe" alignment="CENTER" layoutX="875.0" layoutY="225.0">
+      <GridPane alignment="CENTER" layoutX="875.0" layoutY="225.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -994,10 +994,10 @@
                   <Label text="Xe" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="54" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Cs" alignment="CENTER" layoutX="25.0" layoutY="275.0">
+      <GridPane alignment="CENTER" layoutX="25.0" layoutY="275.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1012,10 +1012,10 @@
                   <Label text="Cs" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="55" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Ba" alignment="CENTER" layoutX="75.0" layoutY="275.0">
+      <GridPane alignment="CENTER" layoutX="75.0" layoutY="275.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1030,10 +1030,10 @@
                   <Label text="Ba" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="56" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="La" alignment="CENTER" layoutX="175.0" layoutY="425.0">
+      <GridPane alignment="CENTER" layoutX="175.0" layoutY="425.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1048,10 +1048,10 @@
                   <Label text="La" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="57" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Ce" alignment="CENTER" layoutX="225.0" layoutY="425.0">
+      <GridPane alignment="CENTER" layoutX="225.0" layoutY="425.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1066,10 +1066,10 @@
                   <Label text="Ce" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="58" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Pr" alignment="CENTER" layoutX="275.0" layoutY="425.0">
+      <GridPane alignment="CENTER" layoutX="275.0" layoutY="425.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1084,10 +1084,10 @@
                   <Label text="Pr" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="59" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Nd" alignment="CENTER" layoutX="325.0" layoutY="425.0">
+      <GridPane alignment="CENTER" layoutX="325.0" layoutY="425.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1102,10 +1102,10 @@
                   <Label text="Nd" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="60" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Pm" alignment="CENTER" layoutX="375.0" layoutY="425.0">
+      <GridPane alignment="CENTER" layoutX="375.0" layoutY="425.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1120,10 +1120,10 @@
                   <Label text="Pm" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="61" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Sm" alignment="CENTER" layoutX="425.0" layoutY="425.0">
+      <GridPane alignment="CENTER" layoutX="425.0" layoutY="425.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1138,10 +1138,10 @@
                   <Label text="Sm" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="62" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Eu" alignment="CENTER" layoutX="475.0" layoutY="425.0">
+      <GridPane alignment="CENTER" layoutX="475.0" layoutY="425.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1156,10 +1156,10 @@
                   <Label text="Eu" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="63" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Gd" alignment="CENTER" layoutX="525.0" layoutY="425.0">
+      <GridPane alignment="CENTER" layoutX="525.0" layoutY="425.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1174,10 +1174,10 @@
                   <Label text="Gd" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="64" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Tb" alignment="CENTER" layoutX="575.0" layoutY="425.0">
+      <GridPane alignment="CENTER" layoutX="575.0" layoutY="425.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1192,10 +1192,10 @@
                   <Label text="Tb" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="65" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Dy" alignment="CENTER" layoutX="625.0" layoutY="425.0">
+      <GridPane alignment="CENTER" layoutX="625.0" layoutY="425.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1210,10 +1210,10 @@
                   <Label text="Dy" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="66" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Ho" alignment="CENTER" layoutX="675.0" layoutY="425.0">
+      <GridPane alignment="CENTER" layoutX="675.0" layoutY="425.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1228,10 +1228,10 @@
                   <Label text="Ho" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="67" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Er" alignment="CENTER" layoutX="725.0" layoutY="425.0">
+      <GridPane alignment="CENTER" layoutX="725.0" layoutY="425.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1246,10 +1246,10 @@
                   <Label text="Er" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="68" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Tm" alignment="CENTER" layoutX="775.0" layoutY="425.0">
+      <GridPane alignment="CENTER" layoutX="775.0" layoutY="425.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1264,10 +1264,10 @@
                   <Label text="Tm" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="69" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Yb" alignment="CENTER" layoutX="825.0" layoutY="425.0">
+      <GridPane alignment="CENTER" layoutX="825.0" layoutY="425.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1282,10 +1282,10 @@
                   <Label text="Yb" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="70" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Lu" alignment="CENTER" layoutX="875.0" layoutY="425.0">
+      <GridPane alignment="CENTER" layoutX="875.0" layoutY="425.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1300,10 +1300,10 @@
                   <Label text="Lu" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="71" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Hf" alignment="CENTER" layoutX="175.0" layoutY="275.0">
+      <GridPane alignment="CENTER" layoutX="175.0" layoutY="275.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1318,10 +1318,10 @@
                   <Label text="Hf" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="72" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Ta" alignment="CENTER" layoutX="225.0" layoutY="275.0">
+      <GridPane alignment="CENTER" layoutX="225.0" layoutY="275.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1336,10 +1336,10 @@
                   <Label text="Ta" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="73" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="W" alignment="CENTER" layoutX="275.0" layoutY="275.0">
+      <GridPane alignment="CENTER" layoutX="275.0" layoutY="275.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1354,10 +1354,10 @@
                   <Label text="W" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="74" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Re" alignment="CENTER" layoutX="325.0" layoutY="275.0">
+      <GridPane alignment="CENTER" layoutX="325.0" layoutY="275.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1372,10 +1372,10 @@
                   <Label text="Re" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="75" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Os" alignment="CENTER" layoutX="375.0" layoutY="275.0">
+      <GridPane alignment="CENTER" layoutX="375.0" layoutY="275.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1390,10 +1390,10 @@
                   <Label text="Os" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="76" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Ir" alignment="CENTER" layoutX="425.0" layoutY="275.0">
+      <GridPane alignment="CENTER" layoutX="425.0" layoutY="275.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1408,10 +1408,10 @@
                   <Label text="Ir" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="77" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Pt" alignment="CENTER" layoutX="475.0" layoutY="275.0">
+      <GridPane alignment="CENTER" layoutX="475.0" layoutY="275.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1426,10 +1426,10 @@
                   <Label text="Pt" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="78" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Au" alignment="CENTER" layoutX="525.0" layoutY="275.0">
+      <GridPane alignment="CENTER" layoutX="525.0" layoutY="275.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1444,10 +1444,10 @@
                   <Label text="Au" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="79" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Hg" alignment="CENTER" layoutX="575.0" layoutY="275.0">
+      <GridPane alignment="CENTER" layoutX="575.0" layoutY="275.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1462,10 +1462,10 @@
                   <Label text="Hg" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="80" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Tl" alignment="CENTER" layoutX="625.0" layoutY="275.0">
+      <GridPane alignment="CENTER" layoutX="625.0" layoutY="275.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1480,10 +1480,10 @@
                   <Label text="Tl" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="81" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Pb" alignment="CENTER" layoutX="675.0" layoutY="275.0">
+      <GridPane alignment="CENTER" layoutX="675.0" layoutY="275.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1498,10 +1498,10 @@
                   <Label text="Pb" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="82" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Bi" alignment="CENTER" layoutX="725.0" layoutY="275.0">
+      <GridPane alignment="CENTER" layoutX="725.0" layoutY="275.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1516,10 +1516,10 @@
                   <Label text="Bi" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="83" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Po" alignment="CENTER" layoutX="775.0" layoutY="275.0">
+      <GridPane alignment="CENTER" layoutX="775.0" layoutY="275.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="0.0" />
          </columnConstraints>
@@ -1534,10 +1534,10 @@
                   <Label text="Po" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="84" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="At" alignment="CENTER" layoutX="825.0" layoutY="275.0">
+      <GridPane alignment="CENTER" layoutX="825.0" layoutY="275.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1552,10 +1552,10 @@
                   <Label text="At" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="85" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Rn" alignment="CENTER" layoutX="875.0" layoutY="275.0">
+      <GridPane alignment="CENTER" layoutX="875.0" layoutY="275.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1570,10 +1570,10 @@
                   <Label text="Rn" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="86" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Fr" alignment="CENTER" layoutX="25.0" layoutY="325.0">
+      <GridPane alignment="CENTER" layoutX="25.0" layoutY="325.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1588,10 +1588,10 @@
                   <Label text="Fr" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="87" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Ra" alignment="CENTER" layoutX="75.0" layoutY="325.0">
+      <GridPane alignment="CENTER" layoutX="75.0" layoutY="325.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1606,10 +1606,10 @@
                   <Label text="Ra" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="88" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Ac" alignment="CENTER" layoutX="175.0" layoutY="475.0">
+      <GridPane alignment="CENTER" layoutX="175.0" layoutY="475.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1624,10 +1624,10 @@
                   <Label text="Ac" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="89" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Th" alignment="CENTER" layoutX="225.0" layoutY="475.0">
+      <GridPane alignment="CENTER" layoutX="225.0" layoutY="475.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1642,10 +1642,10 @@
                   <Label text="Th" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="90" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Pa" alignment="CENTER" layoutX="275.0" layoutY="475.0">
+      <GridPane alignment="CENTER" layoutX="275.0" layoutY="475.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1660,10 +1660,10 @@
                   <Label text="Pa" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="91" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="U" alignment="CENTER" layoutX="325.0" layoutY="475.0">
+      <GridPane alignment="CENTER" layoutX="325.0" layoutY="475.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1678,10 +1678,10 @@
                   <Label text="U" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="92" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Np" alignment="CENTER" layoutX="375.0" layoutY="475.0">
+      <GridPane alignment="CENTER" layoutX="375.0" layoutY="475.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1696,10 +1696,10 @@
                   <Label text="Np" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="93" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Pu" alignment="CENTER" layoutX="425.0" layoutY="475.0">
+      <GridPane alignment="CENTER" layoutX="425.0" layoutY="475.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1714,10 +1714,10 @@
                   <Label text="Pu" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="94" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Am" alignment="CENTER" layoutX="475.0" layoutY="475.0">
+      <GridPane alignment="CENTER" layoutX="475.0" layoutY="475.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1732,10 +1732,10 @@
                   <Label text="Am" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="95" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Cm" alignment="CENTER" layoutX="525.0" layoutY="475.0">
+      <GridPane alignment="CENTER" layoutX="525.0" layoutY="475.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1750,10 +1750,10 @@
                   <Label text="Cm" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="96" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Bk" alignment="CENTER" layoutX="575.0" layoutY="475.0">
+      <GridPane alignment="CENTER" layoutX="575.0" layoutY="475.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1768,10 +1768,10 @@
                   <Label text="Bk" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="97" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Cf" alignment="CENTER" layoutX="625.0" layoutY="475.0">
+      <GridPane alignment="CENTER" layoutX="625.0" layoutY="475.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1786,10 +1786,10 @@
                   <Label text="Cf" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="98" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Es" alignment="CENTER" layoutX="675.0" layoutY="475.0">
+      <GridPane alignment="CENTER" layoutX="675.0" layoutY="475.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1804,10 +1804,10 @@
                   <Label text="Es" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="99" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Fm" alignment="CENTER" layoutX="725.0" layoutY="475.0">
+      <GridPane alignment="CENTER" layoutX="725.0" layoutY="475.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1822,10 +1822,10 @@
                   <Label text="Fm" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="100" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Md" alignment="CENTER" layoutX="775.0" layoutY="475.0">
+      <GridPane alignment="CENTER" layoutX="775.0" layoutY="475.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1840,10 +1840,10 @@
                   <Label text="Md" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="101" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="No" alignment="CENTER" layoutX="825.0" layoutY="475.0">
+      <GridPane alignment="CENTER" layoutX="825.0" layoutY="475.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1858,10 +1858,10 @@
                   <Label text="No" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="102" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Lr" alignment="CENTER" layoutX="875.0" layoutY="475.0">
+      <GridPane alignment="CENTER" layoutX="875.0" layoutY="475.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1876,10 +1876,10 @@
                   <Label text="Lr" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="103" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Rf" alignment="CENTER" layoutX="175.0" layoutY="325.0">
+      <GridPane alignment="CENTER" layoutX="175.0" layoutY="325.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1894,10 +1894,10 @@
                   <Label text="Rf" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="104" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Db" alignment="CENTER" layoutX="225.0" layoutY="325.0">
+      <GridPane alignment="CENTER" layoutX="225.0" layoutY="325.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1912,10 +1912,10 @@
                   <Label text="Db" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="105" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Sg" alignment="CENTER" layoutX="275.0" layoutY="325.0">
+      <GridPane alignment="CENTER" layoutX="275.0" layoutY="325.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1930,10 +1930,10 @@
                   <Label text="Sg" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="106" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Bh" alignment="CENTER" layoutX="325.0" layoutY="325.0">
+      <GridPane alignment="CENTER" layoutX="325.0" layoutY="325.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1948,10 +1948,10 @@
                   <Label text="Bh" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="107" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Hs" alignment="CENTER" layoutX="375.0" layoutY="325.0">
+      <GridPane alignment="CENTER" layoutX="375.0" layoutY="325.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1966,10 +1966,10 @@
                   <Label text="Hs" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="108" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Mt" alignment="CENTER" layoutX="425.0" layoutY="325.0">
+      <GridPane alignment="CENTER" layoutX="425.0" layoutY="325.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -1984,10 +1984,10 @@
                   <Label text="Mt" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="109" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Ds" alignment="CENTER" layoutX="475.0" layoutY="325.0">
+      <GridPane alignment="CENTER" layoutX="475.0" layoutY="325.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -2002,10 +2002,10 @@
                   <Label text="Ds" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="110" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Rg" alignment="CENTER" layoutX="525.0" layoutY="325.0">
+      <GridPane alignment="CENTER" layoutX="525.0" layoutY="325.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -2020,10 +2020,10 @@
                   <Label text="Rg" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="111" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Cn" alignment="CENTER" layoutX="575.0" layoutY="325.0">
+      <GridPane alignment="CENTER" layoutX="575.0" layoutY="325.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -2038,10 +2038,10 @@
                   <Label text="Cn" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="112" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Nh" alignment="CENTER" layoutX="625.0" layoutY="325.0">
+      <GridPane alignment="CENTER" layoutX="625.0" layoutY="325.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -2056,10 +2056,10 @@
                   <Label text="Nh" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="113" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Fl" alignment="CENTER" layoutX="675.0" layoutY="325.0">
+      <GridPane alignment="CENTER" layoutX="675.0" layoutY="325.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -2074,10 +2074,10 @@
                   <Label text="Fl" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="114" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Mc" alignment="CENTER" layoutX="725.0" layoutY="325.0">
+      <GridPane alignment="CENTER" layoutX="725.0" layoutY="325.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -2092,10 +2092,10 @@
                   <Label text="Mc" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="115" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Lv" alignment="CENTER" layoutX="775.0" layoutY="325.0">
+      <GridPane alignment="CENTER" layoutX="775.0" layoutY="325.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -2110,10 +2110,10 @@
                   <Label text="Lv" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="116" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Ts" alignment="CENTER" layoutX="825.0" layoutY="325.0">
+      <GridPane alignment="CENTER" layoutX="825.0" layoutY="325.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -2128,10 +2128,10 @@
                   <Label text="Ts" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="117" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
-      <GridPane fx:id="Og" alignment="CENTER" layoutX="875.0" layoutY="325.0">
+      <GridPane alignment="CENTER" layoutX="875.0" layoutY="325.0">
          <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
          </columnConstraints>
@@ -2146,7 +2146,7 @@
                   <Label text="Og" textFill="WHITE" />
                </children>
             </VBox>
-            <Button mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
+            <Button id="118" mnemonicParsing="false" onAction="#button_Click" opacity="0.0" prefHeight="50.0" prefWidth="50.0" />
          </children>
       </GridPane>
    </children>
