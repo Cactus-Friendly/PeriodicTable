@@ -21,17 +21,21 @@ public class PeriodicTable extends Application {
     
     @Override
     public void start(Stage stage) throws Exception {
+        //Getting ready to start the main window
         Parent root = FXMLLoader.load(getClass().getResource("FXMLDocument.fxml"));
         
+        //Setting the scene for the main window
         Scene scene = new Scene(root);
         
+        //Getting the stage ready for the window
         stage.setScene(scene);
         stage.setResizable(false);
         stage.setTitle("Periodic Table");
         stage.show();
+        
+        //Closing the WHOLE program when the close button is pressed (even all the element windows that are open).
         stage.setOnCloseRequest(new EventHandler<WindowEvent>() {
           public void handle(WindowEvent we) {
-              System.out.println("Stage is closing");
               System.exit(0);
           }
         });

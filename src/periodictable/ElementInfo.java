@@ -13,6 +13,8 @@ import javax.xml.bind.annotation.XmlRootElement;
  *
  * @author nicholaszoellner
  */
+
+//This class is used to grab all the info from the xml file.
 @XmlRootElement (name = "element")
 public class ElementInfo {
     

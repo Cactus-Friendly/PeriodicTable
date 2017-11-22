@@ -14,6 +14,7 @@ import javax.xml.bind.annotation.XmlRootElement;
  * @author nicholaszoellner
  */
 
+//This is the class that initially takes in all the info from the xml file and stores it into an arraylist
 @XmlRootElement (name = "table")
 public class TableInfo {
     

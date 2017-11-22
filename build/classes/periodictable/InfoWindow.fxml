@@ -27,7 +27,7 @@
           <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
         </rowConstraints>
          <children>
-            <Rectangle fx:id="frame" arcHeight="5.0" arcWidth="5.0" fill="#ffff0080" height="200.0" stroke="BLACK" strokeType="INSIDE" width="200.0" />
+            <Rectangle fx:id="frame" arcHeight="5.0" arcWidth="5.0" fill="#ff000080" height="200.0" stroke="BLACK" strokeType="INSIDE" width="200.0" />
             <VBox alignment="CENTER" spacing="25.0">
                <children>
                   <Label fx:id="atomicNumber" text="1" textFill="WHITE">
