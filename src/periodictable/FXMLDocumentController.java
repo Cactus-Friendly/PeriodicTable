@@ -6,10 +6,14 @@
 package periodictable;
 
 import java.io.File;
+import java.io.FileOutputStream;
+import java.io.InputStream;
 import java.io.PrintWriter;
 import java.io.StringWriter;
 import java.net.URL;
 import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
 import java.util.ResourceBundle;
 import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;
@@ -38,17 +42,35 @@ public class FXMLDocumentController implements Initializable {
     
     public static int nodeId;
     public static Paint color;
+    private String path = "elementInfo.xml";
+    private File f;
+    private String fileWebPage = "https://raw.githubusercontent.com/nzoellner1384/PeriodicTable/master/elementInfo.xml";
     
     @Override
     public void initialize(URL url, ResourceBundle rb) {
-        // TODO
+        f = new File(path);
+        try {
+            if (!f.exists()) {
+                 URL fileURL = new URL(fileWebPage);
+                 InputStream input = fileURL.openStream();
+                 FileOutputStream output = new FileOutputStream(f);
+                 byte[] buffer = new byte[4096];
+                 int n = 0;
+                 while(-1 != (n = input.read(buffer)))
+                     output.write(buffer, 0, n);
+                 input.close();
+                 output.close();
+                 System.out.println("File downloaded...");
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    
     }    
 
     //The method that is ran after the button is pushed
     @FXML
-    private void button_Click(ActionEvent event) {
-        //The path of the xml file
-        String path = "elementInfo.xml";
+    private void button_Click(ActionEvent event) throws Throwable {
         
         //Grabbing the id of the button corisponding to the element atomic number
         nodeId = Integer.parseInt(((Node) event.getSource()).getId().trim());
@@ -64,9 +86,6 @@ public class FXMLDocumentController implements Initializable {
         
         //Grabs the color of the rectangle
         color = r.getFill();
-        
-        //Craetes the file object
-        File f = new File(path);
         
         try{
             
@@ -125,6 +144,14 @@ public class FXMLDocumentController implements Initializable {
             a.getDialogPane().setExpandableContent(expContent);
             a.show();
         }
+    }
+    
+    private static boolean isRedirected (Map<String, List<String>> header) {
+        for (String hv : header.get(null)) {
+            if (hv.contains("301") || hv.contains("302"))
+                return true;
+        }
+        return false;
     }
     
 }
