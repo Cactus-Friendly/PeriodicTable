@@ -42,7 +42,7 @@ public class FXMLDocumentController implements Initializable {
     
     public static int nodeId;
     public static Paint color;
-    private String path = "elementIfo.xml";
+    private String path = "elementInfo.xml";
     private File f;
     private String fileWebPage = "https://raw.githubusercontent.com/nzoellner1384/PeriodicTable/master/elementInfo.xml";
     
