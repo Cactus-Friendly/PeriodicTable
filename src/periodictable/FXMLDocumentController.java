@@ -44,7 +44,7 @@ public class FXMLDocumentController implements Initializable {
     public static Paint color;
     private String path = "elementInfo.xml";
     private File f;
-    private String fileWebPage = "https://raw.githubusercontent.com/nzoellner1384/PeriodicTable/master/elementInfo.xml";
+    private String fileWebPage = "https://raw.githubusercontent.com/nzoellner1384/ImportantFiles/master/elementInfo.xml";
     
     @Override
     public void initialize(URL url, ResourceBundle rb) {
